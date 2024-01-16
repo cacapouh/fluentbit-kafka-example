@@ -36,4 +36,3 @@ data:
         Match kube.*
         Brokers my-cluster-kafka-bootstrap.kafka.svc.cluster.local:9092
         Topics my-topic
-        Message_Key_Field log
