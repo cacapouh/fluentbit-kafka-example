@@ -60,3 +60,9 @@ Count 190
 Count 191
 Count 192
 ```
+
+ブラウザからkafka-uiにアクセス:
+
+```
+minikube service kafka-ui-service -n kafka
+```
